@@ -8,7 +8,7 @@ __pycache__/
 
 # Secret keys
 *.toml
-
+!*pyproject.toml
 # Exclude from being ignore this file
 !.streamlit/secrets_example.toml
 
